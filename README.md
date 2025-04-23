@@ -1,6 +1,5 @@
-<img src="https://media.giphy.com/media/kHqFVSjLFMdKE0d0j1/giphy.gif" width="100%" />
 
-<h1 align="center">🕷️ Yo! Eu sou o Ítalo Bruno</h1>
+<h1 align="center">Eu sou o Ítalo Bruno</h1>
 <p align="center">🖥️ Estudante de ADS | Amante de Banco de Dados | Técnico em TI</p>
 
 ---
