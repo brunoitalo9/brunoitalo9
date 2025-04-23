@@ -1,5 +1,5 @@
 
-<h1 align="center">Eu sou o Ítalo Bruno</h1>
+<h1 align="center">Eu sou o Italo Bruno</h1>
 <p align="center">🖥️ Estudante de ADS | Amante de Banco de Dados | Técnico em TI</p>
 
 ---
