@@ -10,7 +10,7 @@
 -  *Técnico em Informática*
 
 🎓 Atualmente cursando o *1º semestre de Análise e Desenvolvimento de Sistemas*  
-🚀 Buscando evoluir como desenvolvedor backend, mas com aquele toque heróico do fullstack!
+🚀 Buscando evoluir como desenvolvedor backend!
 
 ---
 
