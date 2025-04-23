@@ -33,9 +33,4 @@
 
 ---
 
-> 🕷️ "Todo mundo pode usar a máscara. Você só precisa acreditar em si mesmo."  
-> — *Miles Morales*
-
----
-
 📫 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com) ou me segue por aqui!
